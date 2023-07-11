@@ -1,0 +1,6 @@
+// export const API_URL = 'http://localhost:3000'
+// export const API_BASE_URL = 'localhost:3000'
+export const API_URL = 'https://book-library-app.herokuapp.com'
+export const API_BASE_URL = 'book-library-app.herokuapp.com'
+export const API_PROTOCOL = 'https'
+export const WS_PROTOCOL = 'ws'
